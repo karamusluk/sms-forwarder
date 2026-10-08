@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security report
+    url: https://github.com/karamusluk/sms-forwarder/security/advisories/new
+    about: Report a vulnerability in private. Do not include SMS text or secrets.

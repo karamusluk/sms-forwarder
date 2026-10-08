@@ -125,3 +125,12 @@ cd android && ./gradlew assembleRelease
 | `android/app/src/main/java/com/smsforwarder/sms/` | SMS alıcısı, ön plan servisi, yükleme işçisi |
 | `supabase/migrations/` | Profil, tekilleştirme, gönderim kaydı |
 | `supabase/functions/forward-sms/` | Süzgeç, hız sınırı, SMTP gönderimi |
+
+
+## Katkı
+
+Bak: [CONTRIBUTING.md](CONTRIBUTING.md). Güvenlik bildirimleri [SECURITY.md](SECURITY.md) üzerinden gider. Davranış kuralları [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) içindedir.
+
+## Lisans
+
+[MIT](LICENSE)

@@ -125,3 +125,12 @@ The signed APK is `android/app/build/outputs/apk/release/app-release.apk`.
 | `android/app/src/main/java/com/smsforwarder/sms/` | SMS receiver, foreground service, upload worker |
 | `supabase/migrations/` | Profiles, dedupe, send log |
 | `supabase/functions/forward-sms/` | Filter, rate limit, SMTP send |
+
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md). Security reports follow [SECURITY.md](SECURITY.md). The code of conduct is in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+## License
+
+[MIT](LICENSE)
