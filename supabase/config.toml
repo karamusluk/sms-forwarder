@@ -1,0 +1,6 @@
+# Local CLI id for this repo. Link it to the existing shared Supabase project.
+# Do not put SMTP passwords or the service role key in this file.
+project_id = "smsfwd"
+
+[functions.forward-sms]
+verify_jwt = true
